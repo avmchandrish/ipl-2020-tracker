@@ -1,5 +1,5 @@
 # ipl-2020-tracker
-A python script which creates the data pipeline for refreshing my tableau dashboard everyday.  
+A python script doing automated ETL for a Tableau Public dashboard.
 
 Indian Premier League or IPL is in general a long cricket tournament spanning around two to three months.
 Being an ardent cricket fan myself, it becomes difficult to keep track of the performances of each team and players in each match.
